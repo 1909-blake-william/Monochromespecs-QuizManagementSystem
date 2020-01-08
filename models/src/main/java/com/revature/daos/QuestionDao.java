@@ -10,7 +10,7 @@ public interface QuestionDao {
 	
 	String findByQuestionId(int questionId);
 	
-	Question findAllQuestions()
+//	Question findAllQuestions()
 	
 	
 

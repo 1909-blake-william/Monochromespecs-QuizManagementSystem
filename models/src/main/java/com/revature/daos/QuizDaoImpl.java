@@ -1,6 +1,5 @@
 package com.revature.daos;
 
-public class QuizDaoImpl implements QuizDao {
-	
+public class QuizDaoImpl implements QuizDao {	
 
 }
