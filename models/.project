@@ -36,7 +36,7 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>src/main/resources/QuizManagementSystem.sql</name>
+			<name>src/main/resources/QMS_Schema.sql</name>
 			<type>1</type>
 			<location>/home/josdev/SqlScripts/QuizManagementSystemToo.sql</location>
 		</link>
